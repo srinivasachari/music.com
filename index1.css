@@ -1,0 +1,12 @@
+/*body{
+background: linear-gradient(rgb(7, 175, 231) , white);
+}*/
+
+h3{
+    font-style: italic;
+    background: linear-gradient(blue,white);
+}
+.hai{
+    font-style: italic;
+    background-color: lightskyblue;
+}
